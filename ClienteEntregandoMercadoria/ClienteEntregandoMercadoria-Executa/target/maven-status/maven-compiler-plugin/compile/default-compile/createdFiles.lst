@@ -1,0 +1,4 @@
+br\com\s2it\cliente\Main.class
+br\com\s2it\cliente\util\LerArquivo.class
+br\com\s2it\cliente\util\MontaParametro.class
+br\com\s2it\cliente\dto\ParametrosDto.class

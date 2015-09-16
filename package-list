@@ -1,0 +1,11 @@
+br.com.s2it.cliente
+br.com.s2it.cliente.constante
+br.com.s2it.cliente.dto
+br.com.s2it.cliente.util
+br.com.s2it.controller
+br.com.s2it.dto
+br.com.s2it.entregandomercadoria.constante
+br.com.s2it.entregandomercadoria.estrutura
+br.com.s2it.entregandomercadoria.estruturadado
+br.com.s2it.entregandomercadoria.util
+br.com.s2it.servico
